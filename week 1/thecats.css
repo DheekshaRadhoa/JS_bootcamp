@@ -1,0 +1,16 @@
+
+h4{
+    border-style: solid; 
+
+}
+ th, td {
+    border: 1px solid black; width:100px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border:5px solid red;
+  }
+  
